@@ -1,0 +1,1 @@
+This repository contains all course materials for my final project for the IBM Applied Data Science Certificate Capstone Project. If you are here to copy my stuff, I give full consent. Get that bag, player.
